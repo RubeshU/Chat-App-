@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "357668773360",
+    "project_id": "messenger-51c50",
+    "storage_bucket": "messenger-51c50.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357668773360:android:ab15b97f6b7ee8591cd135",
+        "android_client_info": {
+          "package_name": "com.example.flutter_chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357668773360-1erug8g6eqajqm5mnauga7lo3t5vgub3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBu7Aa0zC-HuSF8HXj_3EFDwC9Mm7RsBhI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "357668773360-1erug8g6eqajqm5mnauga7lo3t5vgub3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
